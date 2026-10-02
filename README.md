@@ -38,7 +38,8 @@ This repository presents an edge-optimized vehicle detection pipeline based on *
 ## 🔬 Visual Evidence
 
 ### 1. Training Convergence & Underfitting Breakdown
-![Loss Curves](runs/detect/train/results.png)
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/7df9bdf7-9b59-4f39-9fe6-c02403c3a8e8" />
+
 
 ### 2. Validation Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
