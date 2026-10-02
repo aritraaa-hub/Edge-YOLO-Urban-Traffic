@@ -44,7 +44,8 @@ This repository presents an edge-optimized vehicle detection pipeline based on *
 ![Confusion Matrix](confusion_matrix.png)
 
 ### 3. Real-Time Detection Inference
-![Inference Detection](detection pic.png)
+<img width="446" height="689" alt="detection pic" src="https://github.com/user-attachments/assets/49e3ed6b-135d-4162-ba95-78baa51c1012" />
+
 
 ---
 
